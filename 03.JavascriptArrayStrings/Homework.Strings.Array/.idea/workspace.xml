@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026a3620-510a-44e7-9d7c-03dcb957c31a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score.modification/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score.modification/js/score.modification.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/replace.a.tag/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/replace.a.tag/js/aTagReplacer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Homework.Strings.Array.iws" />
@@ -29,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,6 +46,9 @@
         <option value="$PROJECT_DIR$/array.manipulator/js/array.manipulator.js" />
         <option value="$PROJECT_DIR$/score.modification/index.html" />
         <option value="$PROJECT_DIR$/score.modification/js/score.modification.js" />
+        <option value="$PROJECT_DIR$/replace.a.tag/index.html" />
+        <option value="$PROJECT_DIR$/replace.a.tag/js/replace.a.tag.js" />
+        <option value="$PROJECT_DIR$/replace.a.tag/js/aTagReplacer.js" />
       </list>
     </option>
   </component>
@@ -227,6 +232,26 @@
         <state vertical-scroll-proportion="0.46051168">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replace.a.tag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13233602">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replace.a.tag/js/aTagReplacer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.051167965">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding>
+            <marker date="1452721084616" expanded="true" signature="351:392" placeholder="..." />
+            <marker date="1452721084616" expanded="true" signature="351:397" placeholder="..." />
+            <marker date="1452721084616" expanded="true" signature="355:392" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
